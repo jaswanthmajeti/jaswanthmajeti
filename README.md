@@ -13,9 +13,7 @@
 
 ### 📫 Reach Me At
 - **Email:** jaswanthsaimajeti@gmail.com  
-- **LinkedIn:** [Jaswanth Sai Majeti](https://linkedin.com/in/jaswanthsaimajeti)  
-- **Kaggle:** [jaswanthsaimajeti](https://kaggle.com/jaswanthsaimajeti)  
-- **Instagram:** [@jaswanthsaimajeti](https://instagram.com/jaswanthsaimajeti)  
+- **LinkedIn:** [Jaswanth Sai Majeti](https://www.linkedin.com/in/jaswanth-sai-majeti-b806b72a7/)  
 
 ---
 
