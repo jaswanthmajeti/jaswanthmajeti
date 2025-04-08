@@ -1,23 +1,61 @@
-<h1 align="center">Hi 👋, I'm Jaswanth Sai Majeti</h1>
-<h3 align="center">A passionate problem solver from India</h3>
+<h1 align="center">Hey 👋, I'm Jaswanth Sai Majeti</h1>
+<h3 align="center">⚡ A creative problem solver, full-stack dev, and tech explorer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswanthmajeti&label=Profile%20views&color=0e75b6&style=flat" alt="jaswanthmajeti" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaswanthmajeti" alt="jaswanthmajeti" /></a> </p>
+### 🙋‍♂️ About Me
 
-- 📫 How to reach me **jaswanthsaimajeti@gmail.com**
+- 🎓 I’m an engineering student passionate about building real-world, impactful, and next-level projects.
+- 🧠 I love solving complex problems in simple, creative ways.
+- 🚀 I’m preparing for hackathons, freelance gigs, and high-paying tech roles.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 📫 Reach Me At
+- **Email:** jaswanthsaimajeti@gmail.com  
+- **LinkedIn:** [Jaswanth Sai Majeti](https://linkedin.com/in/jaswanthsaimajeti)  
+- **Kaggle:** [jaswanthsaimajeti](https://kaggle.com/jaswanthsaimajeti)  
+- **Instagram:** [@jaswanthsaimajeti](https://instagram.com/jaswanthsaimajeti)  
+
+---
+
+### 🛠️ Tech Stack
+
 <p align="left">
-<a href="https://linkedin.com/in/jaswanth sai majeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaswanth sai majeti" height="30" width="40" /></a>
-<a href="https://kaggle.com/jaswanth sai majeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jaswanth sai majeti" height="30" width="40" /></a>
-<a href="https://instagram.com/jaswanthsaimajeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaswanthsaimajeti" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaswanthmajeti&show_icons=true&locale=en" alt="jaswanthmajeti" /></p>
+### 🏆 GitHub Trophies
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthmajeti&" alt="jaswanthmajeti" /></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jaswanthmajeti&theme=radical&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
+</p>
 
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaswanthmajeti&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthmajeti&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+> 💡 _"I don’t just code. I create, explore, debug, and upgrade myself every day."_  
+> Let’s connect, collaborate, or just geek out over some tech 💬
