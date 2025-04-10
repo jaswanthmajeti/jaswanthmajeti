@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Jaswanth Sai Majeti</h1>
+<h1 align="center">Hey 👋 I'm Jaswanth Sai Majeti</h1>
 <h3 align="center">⚡ A creative problem solver, and tech explorer from India 🇮🇳</h3>
 
 ---
