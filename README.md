@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jaswanthmajeti&theme=radical&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=jaswanthmajeti&theme=radical&no-frame=true&margin-w=15" />
   </a>
 </p>
 
@@ -49,8 +49,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaswanthmajeti&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthmajeti&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaswanthmajeti&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=jaswanthmajeti&theme=radical" />
 </p>
 
 
